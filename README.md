@@ -1,1 +1,3 @@
-# awsgit
+# maven-project
+
+Simple Maven Project
